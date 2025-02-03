@@ -6,4 +6,7 @@ export const pathKeys = {
   login() {
     return this.root.concat('login/');
   },
+  notFound() {
+    return this.root.concat('404/');
+  },
 };

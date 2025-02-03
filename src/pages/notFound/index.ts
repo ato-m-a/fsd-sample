@@ -1,0 +1,1 @@
+export { notFoundRoute } from './notFound.route';
