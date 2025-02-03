@@ -1,0 +1,1 @@
+export { StarBorder } from './StarBorder.ui';
